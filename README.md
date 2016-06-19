@@ -3,6 +3,8 @@ An interesting little project which uses genetic algorithm to make lots of color
 
 The idea is based on [this blog post](https://rogeralsing.com/2008/12/07/genetic-programming-evolution-of-mona-lisa/) and [this website](http://alteredqualia.com/visualization/evolve/).
 
+You can try this project in [this page](https://tsreaper.github.io/PolPicture/) (in Chinese).
+
 ## Goals
 - [x] Write a genetic algorithm to make evolving pictures
 - [x] Make a user interface using Flash and ActionScript 3
