@@ -1,9 +1,9 @@
-# PolPicture
+# Polygon-Picture
 An interesting little project which uses genetic algorithm to make lots of colorful polygons fit a certain picture.
 
 The idea is based on [this blog post](https://rogeralsing.com/2008/12/07/genetic-programming-evolution-of-mona-lisa/) and [this website](http://alteredqualia.com/visualization/evolve/).
 
-You can try this project in [this page](https://tsreaper.github.io/PolPicture/) (in Chinese).
+You can try this project in [this page](https://tsreaper.github.io/Polygon-Picture/) (in Chinese).
 
 ## Goals
 - [x] Write a genetic algorithm to make evolving pictures
